@@ -1,0 +1,25 @@
+/* NanumSquareNeo */
+@font-face {
+    font-family: 'NanumSquareNeo-aLt';
+    src: url('NanumSquareNeo-aLt.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-bRg';
+    src: url('NanumSquareNeo-bRg.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-cBd';
+    src: url('NanumSquareNeo-cBd.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-dEb';
+    src: url('NanumSquareNeo-dEb.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumSquareNeo-eHv';
+    src: url('NanumSquareNeo-eHv.ttf') format('truetype');
+}
