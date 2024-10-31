@@ -1,27 +1,5 @@
 import React, { useState } from "react";
-
-const headerNav = [
-    {
-        title: "intro",
-        url: "#intro",
-    },
-    {
-        title: "skill",
-        url: "#skill",
-    },
-    {
-        title: "site",
-        url: "#site",
-    },
-    {
-        title: "portfolio",
-        url: "#portfolio",
-    },
-    {
-        title: "contact",
-        url: "#contact",
-    },
-];
+import { headerNav } from "../constants";
 
 const Header = () => {
     // 상태변수 show 생성 및 초기화
