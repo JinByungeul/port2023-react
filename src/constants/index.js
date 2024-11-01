@@ -192,3 +192,47 @@ export const contactText = [
         title: "mail : webstoryboy@naver.com",
     },
 ];
+
+// footer
+export const footerText = [
+    {
+        title: "youtube",
+        desc: "유튜브에 오시면 더 많은 강의를 볼 수 있습니다.",
+        link: "https://www.youtube.com/@Webstoryboy",
+    },
+    {
+        title: "github",
+        desc: "깃허브에 들어오시면 모든 소스를 볼 수 있습니다.",
+        link: "https://github.com/webstoryboy",
+    },
+    {
+        title: "tistory",
+        desc: "티스토리에 들어오시면 좋은 정보를 볼 수 있습니다.",
+        link: "https://webstoryboy.co.kr",
+    },
+    {
+        title: "gsap",
+        desc: "GSAP를 공부하고 오시면 도움이 됩니다.",
+        link: "https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq",
+    },
+    {
+        title: "vite",
+        desc: "비트 강의도 곧 오픈 예정입니다.",
+        link: "https://github.com/webstoryboy/port2023-vite",
+    },
+    {
+        title: "react",
+        desc: "리액트 강의도 곧 오픈 예정입니다.",
+        link: "https://github.com/webstoryboy/port2023-react",
+    },
+    {
+        title: "vue",
+        desc: "뷰 강의도 곧 오픈 예정입니다.",
+        link: "https://github.com/webstoryboy/port2023-vue",
+    },
+    {
+        title: "next",
+        desc: "넥스트 강의도 곧 오픈 예정입니다.",
+        link: "https://github.com/webstoryboy/port2023-next",
+    },
+];
